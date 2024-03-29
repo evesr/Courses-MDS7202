@@ -1,4 +1,2 @@
 videos/
-\ntexts/
-\n!texts/171.txt
-
+texts/*.txt
